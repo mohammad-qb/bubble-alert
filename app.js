@@ -76,4 +76,4 @@ const bubbleAlert = (options) => {
   button.addEventListener("click", () => container.style.display = "none");
 };
 
-module.export.bubbleAlert = bubbleAlert;
+module.exports.bubbleAlert = bubbleAlert;

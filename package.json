@@ -1,0 +1,25 @@
+{
+  "name": "bubble-alert",
+  "version": "1.1.0",
+  "description": "Get a beautiful alert for info, success and error events",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammad-dc/bubble-alert.git"
+  },
+  "keywords": [
+    "alert",
+    "bubble",
+    "nice",
+    "alert"
+  ],
+  "author": "Mohammad Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammad-dc/bubble-alert/issues"
+  },
+  "homepage": "https://github.com/mohammad-dc/bubble-alert#readme"
+}

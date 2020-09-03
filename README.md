@@ -4,14 +4,14 @@ Get a beautiful alert for info, success and error events
 
 # Installation
 
-`npm i bubble-alert-qp --save`
+`npm i bubble-alert --save`
 
 Then...
 
 ```
-import {bubbleAlert} from "bubble-alert-qp";
+import {bubbleAlert} from "bubble-alert";
 
-bubble-alert-qp({
+bubbleAlert({
     type: "info",
     text: "Hello, World!"
 })
